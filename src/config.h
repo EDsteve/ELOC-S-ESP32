@@ -49,7 +49,7 @@
 
 //ESP32 ELOC (TOM) 
 
-#define I2S_MIC_LEFT_RIGHT_CLOCK 12    //to word select. where is channel select? and what does it do??
+#define I2S_MIC_LEFT_RIGHT_CLOCK 12    //to word select. where is channel select? and what does it do?
 #define I2S_MIC_SERIAL_DATA 27          // inmp441 has channel select also. 6 pins. 
 #define I2S_MIC_SERIAL_CLOCK 14
 
